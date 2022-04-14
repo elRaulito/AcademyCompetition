@@ -4,7 +4,7 @@ Welcome on this second plutus competition for Cardano, so I have heard many time
 let's see if this is true...how?
 Let's buy an NFT from jpeg.store using cardano-cli: without frontend
 
-##The Plutus script
+## The Plutus script
 
 In the repository you will find the plutus script of jpeg.store, how do I know is right? let's test what address we get using the script:
 
