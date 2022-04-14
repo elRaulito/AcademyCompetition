@@ -8,11 +8,9 @@ Let's buy an NFT from jpeg.store using cardano-cli: without frontend
 
 In the repository you will find the plutus script of jpeg.store, how do I know is right? let's test what address we get using the script:
 
-`cardano-cli address build \
---payment-script-file jpeg.plutus \
---mainnet \
---out-file jpg.addr
+`cardano-cli address build --payment-script-file jpeg.plutus --mainnet --out-file jpg.addr`
 
+`
 cat jpg.addr
 `
 
